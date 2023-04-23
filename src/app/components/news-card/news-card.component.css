@@ -1,0 +1,33 @@
+.newsCardConitainer {
+    margin-bottom: 1rem;
+    width: 40rem;
+    overflow: hidden;
+    height: 8.25rem;
+}
+
+.newsCard {
+    display: flex;
+    flex-direction: row;
+}
+
+.newsCardImage img {
+    width: 12.5rem;
+    margin-right: 1rem;
+}
+
+.aboutNews {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.newsDate {
+    align-self: flex-start;
+    color: rgba(211, 211, 211, 0.507);
+    margin-bottom: 0.5rem;
+}
+
+.newsCardConitainer:hover {
+    transform: scale(1.05);
+}

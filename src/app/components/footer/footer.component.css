@@ -1,0 +1,18 @@
+footer {
+    margin-top: 3rem;
+	width: 100%;
+	font-size: 1.5rem;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+footer img {
+	margin-top: 10px;
+	margin-left: 0.5rem;
+	cursor: pointer;
+}
+
+footer img:hover {
+	transform: scale(1.05);
+}

@@ -1,0 +1,13 @@
+<div class="newsCardConitainer">
+	<a [routerLink]="['content', id]">
+		<article class="newsCard">
+			<figure class="newsCardImage">
+				<img alt="News Image" src="{{ newsImage }}" />
+			</figure>
+			<section class="aboutNews">
+				<p class="newsDate">{{ newsDate }}</p>
+				<h2>{{ newsDescription }}</h2>
+			</section>
+		</article>
+	</a>
+</div>

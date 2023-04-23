@@ -1,0 +1,16 @@
+<div class="cardContainer">
+	<a [routerLink]="['content', id]">
+		<article class="card">
+			<figure class="newsCardImage">
+				<img alt="Big news image" src="{{ bigNewsImage }}" />
+			</figure>
+			<section class="aboutNews">
+				<p class="newsDate">{{ bigNewsDate }}</p>
+				<h2>{{ bigNewsTitle }}</h2>
+				<p>
+					{{ bigNewsDesctription }}
+				</p>
+			</section>
+		</article>
+	</a>
+</div>

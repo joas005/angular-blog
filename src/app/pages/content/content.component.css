@@ -1,0 +1,41 @@
+hr {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.newsCover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.newsCover img{
+    width: 40.625rem;
+    height: 28.125rem;
+}
+
+.newsTitle hr{
+    color: #4c0519;
+    margin: auto;
+    width: 30%;
+}
+
+.newsTitle h1 {
+    margin: 1rem 0 0.5rem 0;
+    font-size: 3rem; 
+    text-align: center;
+    color: #e11d48;
+    text-shadow: 2px 2px #4c0519;
+}
+
+.newsContent {
+    margin: auto;
+    width: 60%;
+}
+
+.newsContent p {
+    color: rgba(245, 232, 232, 0.979);
+    text-indent: 3%;
+    margin-top: 1.5rem;
+}

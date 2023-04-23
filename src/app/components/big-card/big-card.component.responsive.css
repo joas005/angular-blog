@@ -1,0 +1,33 @@
+.cardContainer {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+	height: 35rem;
+    width: 30rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.newsCardImage img, .newsCardImage {
+	min-width: 30rem;
+    height: 20rem;
+}
+
+.aboutNews h2 {
+    font-size: 3.5rem;
+}
+
+.newsDate {
+    align-self: flex-end;
+    text-align: right;
+}
+
+.aboutNews p {
+    margin-top: 0.5rem;
+    color: rgba(211, 211, 211, 0.507);
+}
+
+.cardContainer:hover {
+    transform: scale(1.02);
+}
