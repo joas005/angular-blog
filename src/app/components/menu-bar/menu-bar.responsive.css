@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px) {
+    .navigation {
+        justify-content: space-around;
+    }
+    
+    .navigation li {
+        font-size: 0.8rem;
+        margin-right: 0.5rem;
+    }
+
+    #logoIndex {
+        width: 2rem;
+    }
+}

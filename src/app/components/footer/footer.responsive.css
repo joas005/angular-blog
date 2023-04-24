@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px) {
+	footer {
+		margin-top: 0rem;
+		margin-bottom: 6rem;
+		width: 100%;
+		font-size: 1rem;
+	}
+	
+	footer img {
+		width: 5rem;
+		height: 1.4rem;
+	}
+}
+
