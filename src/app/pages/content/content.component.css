@@ -1,41 +1,148 @@
 hr {
-    margin-top: 1rem;
-    margin-bottom: 2rem;
+	margin-top: 1rem;
+	margin-bottom: 2rem;
 }
 
 .newsCover {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
-
-.newsCover img{
-    width: 40.625rem;
-    height: 28.125rem;
+.newsCover img {
+	max-width: 80%;
 }
 
-.newsTitle hr{
-    color: #4c0519;
-    margin: auto;
-    width: 30%;
+.newsTitle hr {
+	margin: auto;
+	width: 30%;
 }
 
 .newsTitle h1 {
-    margin: 1rem 0 0.5rem 0;
-    font-size: 3rem; 
-    text-align: center;
-    color: #e11d48;
-    text-shadow: 2px 2px #4c0519;
-}
-
-.newsContent {
-    margin: auto;
-    width: 60%;
+	margin: 1rem 0 0.5rem 0;
+	font-size: var(--size-3xl);
+	text-align: center;
+	color: var(--clr-rose);
+	text-shadow: 2px 2px #4c0519;
 }
 
 .newsContent p {
-    color: rgba(245, 232, 232, 0.979);
-    text-indent: 3%;
-    margin-top: 1.5rem;
+	color: var(--clr-light);
+	font-size: var(--size-base);
+	text-indent: 3%;
+	margin-top: 1.5rem;
+	text-align: justify;
+}
+
+.article {
+	margin-top: 2rem;
+}
+
+.articleTitle {
+	font-size: var(--size-xl);
+	color: var(--clr-indigo);
+	margin-top: 1rem;
+}
+
+.articleSubtitle {
+	font-size: var(--size-l);
+	margin-top: 1rem;
+}
+
+.articleUL {
+	margin-top: 1rem;
+    margin-left: 2rem;
+	list-style: "\1F3C5";
+	letter-spacing: 0.1em;
+}
+
+li {
+	font-size: var(--size-s);
+}
+
+li::before {
+	content: "";
+	margin-left: 0.5em;
+}
+
+.articleOL {
+	margin-top: 1rem;
+    margin-left: 2rem;
+	letter-spacing: 0.1em;
+}
+
+
+/* S */
+@media (min-width: 640px) {
+	.newsTitle h1 {
+		font-size: var(--size-4xl);
+	}
+}
+
+
+/* L */
+@media (min-width: 1024px) {
+	.newsTitle h1 {
+		font-size: var(--size-5xl);
+	}
+}
+
+/* XL */
+@media (min-width: 1280px) {
+	.newsCover img {
+        max-width: 55%;
+    }
+
+    .newsContent {
+        width: 80%;
+        margin: auto;
+    }
+
+    .newsContent p {
+        font-size: var(--size-l);
+        text-align: justify;
+    }
+}
+
+/* 2XL */
+@media (min-width: 1536px) {
+	.container {
+		max-width: 1536px;
+	}
+}
+
+
+
+/* S */
+@media (min-width: 640px) {
+	.articleTitle {
+		font-size: var(--size-2xl);
+	}
+	
+	.articleSubtitle {
+		font-size: var(--size-xl);
+	}
+}
+
+/* M */
+@media (min-width: 768px) {
+	li {
+		font-size: var(--size-base);
+	}
+}
+
+
+/* XL */
+@media (min-width: 1280px) {
+	.articleTitle {
+		font-size: var(--size-3xl);
+	}
+	
+	.articleSubtitle {
+		font-size: var(--size-2xl);
+	}
+
+	li {
+		font-size: var(--size-l);
+	}
 }

@@ -1,14 +1,37 @@
 .titleContainer {
-    text-align: center;
+	text-align: center;
 }
 
 hr {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
 }
 
 .titleContainer h1 {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    font-size: 6rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	font-size: 2rem;
+	color: var(--clr-rose);
+}
+
+/* XS */
+@media (min-width: 475px) {
+	.titleContainer h1 {
+        font-size: 3rem;
+    }
+}
+
+
+/* M */
+@media (min-width: 768px) {
+	.titleContainer h1 {
+		font-size: 4rem;
+	}
+}
+
+/* L */
+@media (min-width: 1024px) {
+	.titleContainer h1 {
+		font-size: 5rem;
+	}
 }

@@ -1,5 +1,5 @@
 <hr />
-<main>
+<main class="container">
 	<figure class="newsCover">
 		<img alt="News Cover" src="{{ newsCover }}" />
 	</figure>
@@ -8,6 +8,6 @@
 		<hr />
 	</section>
 	<article class="newsContent">
-		<p>{{ newsContent }}</p>
+		<div class="article" [innerHTML]="newsContent"></div>
 	</article>
 </main>

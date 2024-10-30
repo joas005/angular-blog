@@ -2,41 +2,55 @@
 	<app-main-title />
 </header>
 
-<main class="articles">
-	<aside class="bigCard">
-		<app-big-card
-			id="1"
-			bigNewsImage="https://img.olhardigital.com.br/wp-content/uploads/2021/12/Code.jpg"
-			bigNewsDate="23/04 - 15:20"
-			bigNewsTitle="Novos empregos em TI"
-			bigNewsDesctription="Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sh"
-		/>
-	</aside>
+<main>
+	<section class="about container" id="aboutApp">
+		<app-about-app></app-about-app>
+	</section>
 
-	<section class="newsCard">
-		<app-news-card
-			id="2"
-			newsDate="24/03 - 15:30"
-			newsImage="https://www.meupositivo.com.br/panoramapositivo/wp-content/uploads/2017/12/machine-learning.jpeg"
-			newsDescription="O futuro da IA"
-		/>
-		<app-news-card
-			id="3"
-			newsDate="23/03 - 17:20"
-			newsImage="https://www.tecnoset.com.br/wp-content/uploads/2019/01/original-5c134a6326db16e46f81d5adca341559-1200x675.jpg"
-			newsDescription="Como codar profissionalmente"
-		/>
-		<app-news-card
-			id="4"
-			newsDate="23/03 - 13:10"
-			newsImage="https://www.jabrasil.org.br/themes/jabrasil/assets/images/landing-page-ti/garoto-laptop.png"
-			newsDescription="Melhores vagas para desenvolvedores júnior"
-		/>
-		<app-news-card
-			id="5"
-			newsDate="22/03 - 15:00"
-			newsImage="https://res.cloudinary.com/marcba/image/fetch/f_webp,q_60,w_1000,h_700/https://cdn.midjourney.com/978b3e46-c3cc-4eab-83db-4e94c0ba687e/grid_0.png"
-			newsDescription="O que é tutorial hell"
-		/>
+	<section class="container">
+		<h1 class="articlesTitle">Artigos</h1>
+
+		<div class="articles" id="articles">
+			<aside class="bigCard">
+				<app-big-card
+					id="1"
+					bigNewsImage="https://linktr.ee/og/image/instituto.proa.jpg"
+					bigNewsDate="21/10 - 15:20"
+					bigNewsTitle="PROA: Transformando Vidas com o Curso de TI Gratuito"
+					bigNewsDesctription="Descubra o Instituto PROA, uma organização sem fins lucrativos que transforma a vida de jovens de 17 a 22 anos por meio de cursos gratuitos em Tecnologia da Informação. Com uma abordagem prática, o curso cobre programação, desenvolvimento web, banco de dados, cibersegurança e soft skills, preparando os alunos para o mercado de trabalho. As inscrições ocorrem duas vezes ao ano, e o processo inclui teste de lógica, entrevista e confirmação de matrícula."
+				/>
+			</aside>
+
+			<section class="newsCard">
+				<app-news-card
+					id="2"
+					newsDate="24/10 - 19:30"
+					newsImage="https://businessmoment.com.br/wp-content/uploads/2023/12/Cursos-Gratuitos-Eu-Capacito-1024x553.jpg"
+					newsDescription="Descubra os cursos gratuitos da EuCapacito"
+					newsSubtitle="Descubra os Cursos Gratuitos da EuCapacito e Transforme Sua Carreira em TI!"
+				/>
+				<app-news-card
+					id="3"
+					newsDate="19/09 - 17:20"
+					newsImage="https://miro.medium.com/v2/resize:fit:1200/1*RB1rxSK_TBmcC5D2PN30JA.png"
+					newsDescription="Medium o maior blog de dados do mundoe"
+					newsSubtitle="Desbravando o Medium: O Paraíso dos Blogs sobre Dados"
+				/>
+				<app-news-card
+					id="4"
+					newsDate="31/10 - 13:10"
+					newsImage="https://conrio.com.br/wp-content/uploads/2024/05/Curso-de-TI-e-dificil-Veja-opcoes-para-se-qualificar-em-informatica.jpg"
+					newsDescription="Conhecendo o Brasil Mais TI"
+					newsSubtitle="Brasil Mais TI: Transformando o Futuro da Tecnologia no País"
+				/>
+				<app-news-card
+					id="5"
+					newsDate="22/09 - 15:00"
+					newsImage="https://euestudo.com.vc/Loja/Imagens/boabolsa3261120191055316.jpg"
+					newsDescription="Caminho Digital a nova forma de estudar TI"
+					newsSubtitle="A Plataforma que Está Mudando o Jogo da Tecnologia no Brasil"
+				/>
+			</section>
+		</div>
 	</section>
 </main>

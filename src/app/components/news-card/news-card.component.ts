@@ -14,4 +14,6 @@ export class NewsCardComponent {
 	newsDate: string = '';
 	@Input()
 	newsDescription: string = '';
+	@Input()
+	newsSubtitle: string = '';
 }

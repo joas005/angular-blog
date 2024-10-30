@@ -1,0 +1,60 @@
+p {
+    font-size: var(--size-base);
+    color: var(--clr-light);
+    text-align: justify;
+}
+
+.aboutAppTittle, .aboutAuthors h2 {
+    font-size: var(--size-2xl);
+    margin-bottom: 1rem;
+    color: var(--clr-indigo);
+}
+
+.about {
+    margin-bottom: 1.5rem;
+}
+
+.aboutAuthors p {
+    margin-bottom: 1rem;
+}
+
+.aboutAuthors ul {
+    margin-left: 2rem;
+	list-style: "\1F3C5";
+	letter-spacing: 0.1em;
+}
+
+.aboutAuthors li {
+	font-size: var(--size-s);
+}
+
+.aboutAuthors li::before {
+	content: "";
+	margin-left: 0.5em;
+}
+
+
+.aboutAuthors {
+    margin-bottom: 1.5rem;
+}
+
+/* S */
+@media (min-width: 640px) {
+	.aboutAuthors li {
+        font-size: var(--size-base);
+    }
+}
+
+/* M */
+@media (min-width: 768px) {
+	.aboutAppTittle, .aboutAuthors h2 {
+        font-size: var(--size-3xl);
+    }
+}
+
+/* XL */
+@media (min-width: 1280px) {
+	p {
+        font-size: var(--size-l);
+    }    
+}
