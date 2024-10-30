@@ -104,7 +104,7 @@ export const dataFake = [
     <li><strong>Inscreva-se</strong>: Após escolher, clique em “Inscrever-se” e pronto! Você já pode começar a estudar.</li>
 </ol>
 
-<h2 class="articleSubtitle">Épocas de Inscrição</h2>
+<h2 class="articleTitle">Épocas de Inscrição</h2>
 <p>Um dos pontos legais da EuCapacito é que a maioria dos cursos são oferecidos de forma contínua. Ou seja, você pode se inscrever a qualquer momento! Contudo, alguns cursos podem ter períodos específicos de inscrição, então é sempre bom ficar de olho no site e nas redes sociais deles.</p>
 
 <h2 class="articleTitle">Por Que Fazer Um Curso na EuCapacito?</h2>
