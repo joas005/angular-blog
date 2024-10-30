@@ -241,45 +241,45 @@ export const dataFake = [
 <h2 class="articleTitle">O Que a Plataforma Oferece?</h2>
 <p>O Brasil Mais TI oferece uma série de recursos e oportunidades para quem deseja se aprofundar no mundo da tecnologia. Aqui estão alguns dos principais serviços disponíveis na plataforma:</p>
 
-<h3 class="articleSubtitle">1. <strong>Cursos Gratuitos</strong></h3>
+<h3 class="articleSubtitle">1. Cursos Gratuitos</h3>
 <p>A plataforma conta com uma vasta gama de cursos gratuitos em diferentes áreas da tecnologia. Desde programação, design, segurança da informação até análise de dados, você encontra cursos de qualidade que podem te ajudar a desenvolver novas habilidades. Os cursos são oferecidos em parceria com instituições renomadas, garantindo que você tenha acesso a um conteúdo de alto nível.</p>
 
-<h3 class="articleSubtitle">2. <strong>Eventos e Webinars</strong></h3>
+<h3 class="articleSubtitle">2. Eventos e Webinars</h3>
 <p>O Brasil Mais TI também promove eventos e webinars onde especialistas do setor compartilham suas experiências e conhecimentos. Essas oportunidades são perfeitas para quem quer se atualizar sobre as tendências do mercado e aprender diretamente com profissionais que estão fazendo a diferença na área.</p>
 
-<h3 class="articleSubtitle">3. <strong>Mentorias e Networking</strong></h3>
+<h3 class="articleSubtitle">3. Mentorias e Networking</h3>
 <p>Uma das grandes vantagens da plataforma é a possibilidade de conectar-se com mentores e outros profissionais da área. O Brasil Mais TI facilita o networking, permitindo que você crie relações valiosas que podem ajudar na sua carreira. Além disso, contar com a orientação de profissionais experientes pode fazer toda a diferença na sua trajetória.</p>
 
-<h3 class="articleSubtitle">4. <strong>Conteúdo Exclusivo</strong></h3>
+<h3 class="articleSubtitle">4. Conteúdo Exclusivo</h3>
 <p>Além dos cursos e eventos, a plataforma oferece acesso a uma biblioteca de conteúdos exclusivos, como artigos, tutoriais e e-books. Esse material é fundamental para quem quer se manter atualizado e aprofundar seus conhecimentos em tecnologia.</p>
 
 <h2 class="articleTitle">Como Se Inscrever e Participar?</h2>
 <p>Se você ficou interessado e quer saber como se inscrever na plataforma Brasil Mais TI, é super fácil! Aqui está um passo a passo para você começar:</p>
 
 <ol class="articleOL">
-    <li><strong>Acesse o Site</strong>: O primeiro passo é acessar o site oficial do Brasil Mais TI. Nele, você encontrará todas as informações sobre cursos, eventos e como se inscrever.</li>
-    <li><strong>Crie uma Conta</strong>: Para acessar os cursos e materiais, você precisará criar uma conta. O cadastro é rápido e simples. Basta preencher algumas informações básicas e pronto!</li>
-    <li><strong>Escolha Seus Cursos</strong>: Após se cadastrar, explore a plataforma e escolha os cursos que mais te interessam. Você pode filtrar os cursos por categoria, nível de dificuldade e até por tempo de duração.</li>
-    <li><strong>Participe dos Eventos</strong>: Fique de olho na agenda de eventos e webinars. Inscreva-se nas atividades que você gostaria de participar e aproveite essa oportunidade de aprendizado.</li>
-    <li><strong>Interaja com a Comunidade</strong>: Não esqueça de interagir com outros alunos e mentores. Faça perguntas, troque experiências e aproveite ao máximo a rede de contatos que a plataforma oferece.</li>
+    <li>Acesse o Site: O primeiro passo é acessar o site oficial do Brasil Mais TI. Nele, você encontrará todas as informações sobre cursos, eventos e como se inscrever.</li>
+    <li>Crie uma Conta: Para acessar os cursos e materiais, você precisará criar uma conta. O cadastro é rápido e simples. Basta preencher algumas informações básicas e pronto!</li>
+    <li>Escolha Seus Cursos: Após se cadastrar, explore a plataforma e escolha os cursos que mais te interessam. Você pode filtrar os cursos por categoria, nível de dificuldade e até por tempo de duração.</li>
+    <li>Participe dos Eventos: Fique de olho na agenda de eventos e webinars. Inscreva-se nas atividades que você gostaria de participar e aproveite essa oportunidade de aprendizado.</li>
+    <li>Interaja com a Comunidade: Não esqueça de interagir com outros alunos e mentores. Faça perguntas, troque experiências e aproveite ao máximo a rede de contatos que a plataforma oferece.</li>
 </ol>
 
 <h2 class="articleTitle">Dicas para Aproveitar ao Máximo a Plataforma</h2>
 <p>Agora que você já sabe como se inscrever e o que a plataforma oferece, aqui vão algumas dicas para aproveitar ao máximo o Brasil Mais TI:</p>
 
-<h3 class="articleSubtitle">1. <strong>Seja Proativo</strong></h3>
+<h3 class="articleSubtitle">1. Seja Proativo</h3>
 <p>Não espere as oportunidades chegarem até você! Explore a plataforma, busque cursos e participe de eventos. Quanto mais você se envolver, mais conhecimento e experiência você adquirirá.</p>
 
-<h3 class="articleSubtitle">2. <strong>Organize Seu Tempo</strong></h3>
+<h3 class="articleSubtitle">2. Organize Seu Tempo</h3>
 <p>Com tantas opções disponíveis, pode ser fácil se perder. Crie um cronograma de estudos e defina metas para garantir que você esteja aproveitando o conteúdo da melhor forma possível.</p>
 
-<h3 class="articleSubtitle">3. <strong>Conecte-se com Outros Alunos</strong></h3>
+<h3 class="articleSubtitle">3. Conecte-se com Outros Alunos</h3>
 <p>Formar grupos de estudo pode ser uma ótima maneira de aprender. Junte-se a outros alunos para discutir os conteúdos dos cursos, trocar ideias e ajudar uns aos outros.</p>
 
-<h3 class="articleSubtitle">4. <strong>Pratique o Que Aprendeu</strong></h3>
+<h3 class="articleSubtitle">4. Pratique o Que Aprendeu</h3>
 <p>A teoria é fundamental, mas a prática é essencial! Sempre que possível, coloque em prática o que aprendeu nos cursos. Isso vai solidificar seu conhecimento e te preparar para os desafios do mercado.</p>
 
-<h3 class="articleSubtitle">5. <strong>Mantenha-se Atualizado</strong></h3>
+<h3 class="articleSubtitle">5. Mantenha-se Atualizado</h3>
 <p>A tecnologia está em constante evolução. Portanto, é importante que você esteja sempre atualizado. Aproveite os conteúdos exclusivos da plataforma e não hesite em explorar outras fontes de informação também.</p>
 
 <h2 class="articleTitle">Conclusão</h2>
@@ -313,19 +313,19 @@ export const dataFake = [
 <h2 class="articleTitle">O Que a Plataforma Oferece?</h2>
 <p>Agora que você já sabe o que é a Caminho Digital e sua importância, vamos dar uma olhada no que a plataforma tem a oferecer. Aqui estão algumas das principais características e recursos disponíveis:</p>
 
-<h3 class="articleSubtitle">1. <strong>Cursos Diversificados</strong></h3>
+<h3 class="articleSubtitle">1. Cursos Diversificados</h3>
 <p>A Caminho Digital oferece uma vasta gama de cursos em diversas áreas da tecnologia. Se você está interessado em programação, design, ciência de dados, marketing digital ou até mesmo em soft skills, certamente encontrará algo que atenda às suas necessidades. Os cursos são desenvolvidos por especialistas da área, garantindo um conteúdo de qualidade e atualizado.</p>
 
-<h3 class="articleSubtitle">2. <strong>Aulas Interativas</strong></h3>
+<h3 class="articleSubtitle">2. Aulas Interativas</h3>
 <p>Uma das grandes vantagens da Caminho Digital é que suas aulas são interativas. Em vez de apenas assistir a vídeos, você tem a oportunidade de participar de atividades práticas, quizzes e discussões em grupo. Essa abordagem ativa ajuda a fixar o conhecimento e torna o aprendizado mais envolvente.</p>
 
-<h3 class="articleSubtitle">3. <strong>Certificações Reconhecidas</strong></h3>
+<h3 class="articleSubtitle">3. Certificações Reconhecidas</h3>
 <p>Ao finalizar os cursos, você recebe certificados reconhecidos, que podem ser um grande diferencial no seu currículo. Esses certificados demonstram que você possui conhecimentos específicos e pode ser um ótimo complemento para quem está em busca de novas oportunidades de trabalho.</p>
 
-<h3 class="articleSubtitle">4. <strong>Mentorias e Comunidade</strong></h3>
+<h3 class="articleSubtitle">4. Mentorias e Comunidade</h3>
 <p>A Caminho Digital também se preocupa em criar uma comunidade de aprendizado. Os alunos têm acesso a fóruns de discussão, onde podem tirar dúvidas e compartilhar experiências. Além disso, a plataforma oferece a opção de mentorias, conectando alunos a profissionais experientes que podem orientar e ajudar no desenvolvimento de carreira.</p>
 
-<h3 class="articleSubtitle">5. <strong>Atualizações Constantes</strong></h3>
+<h3 class="articleSubtitle">5. Atualizações Constantes</h3>
 <p>O mercado de tecnologia está sempre em evolução, e a Caminho Digital entende a importância de manter seus cursos atualizados. A plataforma está constantemente revisando e adicionando novos conteúdos, garantindo que você sempre tenha acesso às informações mais recentes e relevantes.</p>
 
 <h2 class="articleTitle">Como Se Inscrever e Começar?</h2>
@@ -342,19 +342,19 @@ export const dataFake = [
 <h2 class="articleTitle">Dicas para Aproveitar ao Máximo a Caminho Digital</h2>
 <p>Agora que você sabe como se inscrever, aqui vão algumas dicas para tirar o máximo proveito da plataforma:</p>
 
-<h3 class="articleSubtitle">1. <strong>Defina Objetivos Claros</strong></h3>
+<h3 class="articleSubtitle">1. Defina Objetivos Claros</h3>
 <p>Antes de começar, pense no que você deseja alcançar com os cursos. Ter objetivos claros vai te ajudar a manter o foco e a motivação ao longo do aprendizado.</p>
 
-<h3 class="articleSubtitle">2. <strong>Organize Seu Tempo</strong></h3>
+<h3 class="articleSubtitle">2. Organize Seu Tempo</h3>
 <p>Estudar online requer disciplina. Crie um cronograma de estudos e se comprometa a cumpri-lo. Reserve um tempo específico por semana para se dedicar aos cursos e revise os conteúdos regularmente.</p>
 
-<h3 class="articleSubtitle">3. <strong>Coloque em Prática o Que Aprendeu</strong></h3>
+<h3 class="articleSubtitle">3. Coloque em Prática o Que Aprendeu</h3>
 <p>A teoria é fundamental, mas a prática é essencial. Sempre que possível, coloque em prática os conceitos que você aprendeu. Isso ajuda a fixar o conhecimento e a se preparar para desafios do mundo real.</p>
 
-<h3 class="articleSubtitle">4. <strong>Aproveite as Mentorias</strong></h3>
+<h3 class="articleSubtitle">4. Aproveite as Mentorias</h3>
 <p>Se a plataforma oferece mentorias, não hesite em participar. Ter alguém com mais experiência para te guiar pode ser um grande diferencial na sua jornada.</p>
 
-<h3 class="articleSubtitle">5. <strong>Mantenha-se Atualizado</strong></h3>
+<h3 class="articleSubtitle">5. Mantenha-se Atualizado</h3>
 <p>O mundo da tecnologia muda rapidamente. Por isso, é importante que você esteja sempre atualizado. Aproveite os conteúdos exclusivos da plataforma e não hesite em explorar outras fontes de informação também.</p>
 
 <h2 class="articleTitle">Conclusão</h2>
