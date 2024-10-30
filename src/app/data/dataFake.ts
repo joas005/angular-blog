@@ -77,10 +77,10 @@ export const dataFake = [
 
 <p>E aí, galera! Se você é como eu, sempre em busca de aprender algo novo e dar um up na carreira, hoje venho trazer uma super dica que pode mudar o seu jogo: a plataforma <strong>EuCapacito</strong>! Com uma variedade de cursos gratuitos, essa plataforma é ideal para quem quer se aprofundar no universo da tecnologia da informação (TI) e em outras áreas. Vamos lá?</p>
 
-<h2 class="articleSubtitle">O Que é a EuCapacito?</h2>
+<h2 class="articleTitle">O Que é a EuCapacito?</h2>
 <p>A EuCapacito é uma plataforma de educação online que oferece cursos gratuitos em diversas áreas, com foco especial em tecnologia. O objetivo deles é tornar o aprendizado acessível a todos, ajudando estudantes e profissionais a se capacitarem e se destacarem no mercado de trabalho. E o melhor: você pode fazer tudo isso no conforto da sua casa!</p>
 
-<h2 class="articleSubtitle">Cursos Disponíveis</h2>
+<h2 class="articleTitle">Cursos Disponíveis</h2>
 <p>Na EuCapacito, você encontra cursos para todos os gostos! Desde marketing digital, gestão de projetos, até programação e ciência de dados. Mas como eu sei que muitos de vocês estão interessados em TI, vamos falar mais sobre os cursos dessa área.</p>
 
 <h3 class="articleSubtitle">Curso de Tecnologia da Informação</h3>
@@ -94,7 +94,7 @@ export const dataFake = [
     <li><strong>Banco de Dados</strong>: Como gerenciar e manipular dados utilizando SQL e outras ferramentas.</li>
 </ul>
 
-<h2 class="articleSubtitle">Dicas Para Se Inscrever</h2>
+<h2 class="articleTitle">Dicas Para Se Inscrever</h2>
 <p>A inscrição na EuCapacito é bem simples. Você só precisa seguir alguns passos:</p>
 
 <ol class="articleOL">
@@ -107,7 +107,7 @@ export const dataFake = [
 <h2 class="articleSubtitle">Épocas de Inscrição</h2>
 <p>Um dos pontos legais da EuCapacito é que a maioria dos cursos são oferecidos de forma contínua. Ou seja, você pode se inscrever a qualquer momento! Contudo, alguns cursos podem ter períodos específicos de inscrição, então é sempre bom ficar de olho no site e nas redes sociais deles.</p>
 
-<h2 class="articleSubtitle">Por Que Fazer Um Curso na EuCapacito?</h2>
+<h2 class="articleTitle">Por Que Fazer Um Curso na EuCapacito?</h2>
 <p>Fazer um curso na EuCapacito traz uma série de vantagens, principalmente para quem está começando na área de TI:</p>
 
 <ul class="articleUL">
@@ -116,14 +116,14 @@ export const dataFake = [
     <li><strong>Certificação</strong>: Ao finalizar o curso, você recebe um certificado que pode ser adicionado ao seu currículo e ao seu LinkedIn, ajudando a destacar suas habilidades para futuros empregadores.</li>
 </ul>
 
-<h2 class="articleSubtitle">Depoimentos de Alunos</h2>
+<h2 class="articleTitle">Depoimentos de Alunos</h2>
 <p>Para ilustrar o impacto dos cursos, entrei em contato com alguns colegas da Universidade Cruzeiro do Sul que já fizeram cursos na EuCapacito. O que mais ouvi foram elogios sobre a didática e a qualidade do conteúdo.</p>
 
 <p>“A EuCapacito me ajudou a entender melhor a programação. O curso de TI foi um divisor de águas para mim!” – <strong>Mariana Silva</strong>, estudante de Engenharia da Computação.</p>
 
 <p>“Os cursos são muito práticos e fáceis de acompanhar. Consegui aprender Python e já estou aplicando em projetos da faculdade!” – <strong>Felipe Santos</strong>, estudante de Análise e Desenvolvimento de Sistemas.</p>
 
-<h2 class="articleSubtitle">Dicas Finais Para Aproveitar ao Máximo</h2>
+<h2 class="articleTitle">Dicas Finais Para Aproveitar ao Máximo</h2>
 <p>Para quem deseja realmente aproveitar tudo que a EuCapacito tem a oferecer, aqui vão algumas dicas:</p>
 
 <ul class="articleUL">
@@ -132,7 +132,7 @@ export const dataFake = [
     <li><strong>Pratique!</strong>: Não fique só na teoria. Tente aplicar o que aprendeu em projetos pessoais ou colabore em projetos de colegas.</li>
 </ul>
 
-<h2 class="articleSubtitle">Conclusão</h2>
+<h2 class="articleTitle">Conclusão</h2>
 <p>Então, galera, se você está buscando um caminho para se destacar no mercado de trabalho, a EuCapacito é uma ótima opção. Com cursos gratuitos e uma variedade incrível de conteúdo, você pode se preparar para uma carreira de sucesso na área de TI e muito mais. Não perca tempo, inscreva-se já e comece a sua jornada de aprendizado!</p>
 
 <p>Espero que esse post tenha sido útil e que você se sinta inspirado a dar o próximo passo na sua carreira. Vamos juntos em busca do conhecimento! Até a próxima!</p>
@@ -150,12 +150,12 @@ export const dataFake = [
 
 <p>Fala, galera! Hoje eu vim aqui pra falar sobre uma plataforma que é um verdadeiro tesouro para quem ama dados e tecnologia: o <strong>Medium</strong>! Se você ainda não conhece ou está pensando em se aventurar por lá, fique tranquilo, porque vou te contar tudo o que você precisa saber para aproveitar ao máximo essa comunidade incrível. Vem comigo!</p>
 
-<h2 class="articleSubtitle">O Que é o Medium?</h2>
+<h2 class="articleTitle">O Que é o Medium?</h2>
 <p>O Medium é uma plataforma de blogs onde qualquer pessoa pode escrever e publicar conteúdos. Desde artigos sobre ciência de dados, até histórias pessoais e reflexões sobre a vida. O que torna o Medium tão especial é a diversidade de vozes e a qualidade dos textos. Você vai encontrar desde iniciantes até especialistas compartilhando suas experiências e conhecimentos.</p>
 
 <p>A plataforma foi criada em 2012 por Evan Williams, um dos co-fundadores do Twitter, e desde então vem crescendo e se tornando um espaço muito respeitado no mundo da escrita online. No Medium, você pode seguir autores, climas, e até tópicos específicos, o que facilita muito a busca por conteúdos que realmente interessam a você.</p>
 
-<h2 class="articleSubtitle">Por Que Escrever no Medium?</h2>
+<h2 class="articleTitle">Por Que Escrever no Medium?</h2>
 <p>Escrever no Medium pode ser uma experiência incrível para quem quer se expressar e compartilhar conhecimento. Aqui estão algumas razões pelas quais você deve considerar a plataforma:</p>
 
 <ul class="articleUL">
@@ -165,7 +165,7 @@ export const dataFake = [
     <li><strong>Oportunidade de Monetização</strong>: Se você se inscrever no <strong>Programa de Parcerias do Medium</strong>, pode ganhar dinheiro com seus textos. Isso mesmo! Seus artigos podem gerar uma renda passiva se forem bem recebidos.</li>
 </ul>
 
-<h2 class="articleSubtitle">Dicas Para Começar a Escrever</h2>
+<h2 class="articleTitle">Dicas Para Começar a Escrever</h2>
 <p>Agora que você já conhece os benefícios do Medium, que tal começar a escrever? Aqui vão algumas dicas para te ajudar nesse caminho:</p>
 
 <h3 class="articleSubtitle">Escolha um Tópico que Você Ama</h3>
@@ -183,7 +183,7 @@ export const dataFake = [
 <h3 class="articleSubtitle">Mantenha a Consistência</h3>
 <p>Tente publicar com regularidade. Seja uma vez por semana ou a cada duas semanas, o importante é criar uma rotina. Isso vai ajudar a manter seu público engajado e ansioso por novos conteúdos.</p>
 
-<h2 class="articleSubtitle">O Que Ler no Medium?</h2>
+<h2 class="articleTitle">O Que Ler no Medium?</h2>
 <p>Se você ainda está se perguntando o que encontrar no Medium, vou compartilhar algumas categorias que são um prato cheio para quem ama dados:</p>
 
 <h3 class="articleSubtitle">1. Ciência de Dados e Machine Learning</h3>
@@ -198,7 +198,7 @@ export const dataFake = [
 <h3 class="articleSubtitle">4. Carreira em Dados</h3>
 <p>Se você está pensando em seguir uma carreira na área de dados, o Medium é uma ótima fonte de inspiração. Existem artigos sobre como se preparar para entrevistas, as habilidades mais procuradas no mercado e histórias de pessoas que mudaram de carreira.</p>
 
-<h2 class="articleSubtitle">Engajando com a Comunidade</h2>
+<h2 class="articleTitle">Engajando com a Comunidade</h2>
 <p>Uma das partes mais legais do Medium é a possibilidade de interagir com outros escritores e leitores. Aqui estão algumas formas de se engajar:</p>
 
 <h3 class="articleSubtitle">Comentar e Compartilhar</h3>
@@ -210,7 +210,7 @@ export const dataFake = [
 <h3 class="articleSubtitle">Participar de Publicações</h3>
 <p>No Medium, existem várias publicações onde você pode enviar seus textos. Essas publicações têm um público já estabelecido e podem ajudar a aumentar a visibilidade do seu trabalho.</p>
 
-<h2 class="articleSubtitle">Conclusão</h2>
+<h2 class="articleTitle">Conclusão</h2>
 <p>Se você é apaixonado por dados e quer compartilhar seu conhecimento, o Medium é definitivamente o lugar certo para você! Com uma comunidade vibrante e uma plataforma fácil de usar, suas ideias podem alcançar pessoas de todo o mundo.</p>
 
 <p>Espero que esse post tenha te inspirado a dar o primeiro passo na sua jornada de escrita no Medium. Lembre-se: todos têm algo valioso a compartilhar. Então, pegue sua caneta (ou teclado) e comece a escrever! Até a próxima!</p>
@@ -228,17 +228,17 @@ export const dataFake = [
 
 <p>E aí, pessoal! Hoje eu quero compartilhar com vocês uma plataforma que está fazendo barulho no cenário tecnológico do Brasil: o <strong>Brasil Mais TI</strong>. Se você é apaixonado por tecnologia, inovação e quer saber como essa plataforma pode impactar o nosso futuro, fique por aqui! Vou contar tudo sobre o que é, como funciona e por que você deveria ficar de olho nessa iniciativa.</p>
 
-<h2 class="articleSubtitle">O Que é o Brasil Mais TI?</h2>
+<h2 class="articleTitle">O Que é o Brasil Mais TI?</h2>
 <p>O Brasil Mais TI é uma plataforma do governo federal que visa impulsionar a transformação digital e o desenvolvimento de competências na área de tecnologia da informação e comunicação (TIC). Criada com o objetivo de preparar o Brasil para os desafios da Era Digital, a plataforma oferece uma série de cursos, eventos, e recursos para capacitar profissionais e estudantes que desejam se destacar no mercado de trabalho.</p>
 
 <p>A ideia por trás do Brasil Mais TI é democratizar o acesso à informação e às oportunidades na área de tecnologia, permitindo que mais pessoas tenham acesso a conteúdos de qualidade e possam se desenvolver profissionalmente.</p>
 
-<h2 class="articleSubtitle">Por Que a Iniciativa é Importante?</h2>
+<h2 class="articleTitle">Por Que a Iniciativa é Importante?</h2>
 <p>Em um mundo cada vez mais digital, as habilidades em tecnologia se tornaram essenciais para a maioria das profissões. O Brasil Mais TI busca atender essa demanda, contribuindo para a formação de profissionais qualificados e aptos a atuar em diversos setores.</p>
 
 <p>Além disso, essa iniciativa é fundamental para impulsionar a economia digital do país. Ao capacitar mais pessoas em tecnologia, estamos criando um ambiente propício para a inovação, o empreendedorismo e, consequentemente, o crescimento econômico.</p>
 
-<h2 class="articleSubtitle">O Que a Plataforma Oferece?</h2>
+<h2 class="articleTitle">O Que a Plataforma Oferece?</h2>
 <p>O Brasil Mais TI oferece uma série de recursos e oportunidades para quem deseja se aprofundar no mundo da tecnologia. Aqui estão alguns dos principais serviços disponíveis na plataforma:</p>
 
 <h3 class="articleSubtitle">1. <strong>Cursos Gratuitos</strong></h3>
@@ -253,7 +253,7 @@ export const dataFake = [
 <h3 class="articleSubtitle">4. <strong>Conteúdo Exclusivo</strong></h3>
 <p>Além dos cursos e eventos, a plataforma oferece acesso a uma biblioteca de conteúdos exclusivos, como artigos, tutoriais e e-books. Esse material é fundamental para quem quer se manter atualizado e aprofundar seus conhecimentos em tecnologia.</p>
 
-<h2 class="articleSubtitle">Como Se Inscrever e Participar?</h2>
+<h2 class="articleTitle">Como Se Inscrever e Participar?</h2>
 <p>Se você ficou interessado e quer saber como se inscrever na plataforma Brasil Mais TI, é super fácil! Aqui está um passo a passo para você começar:</p>
 
 <ol class="articleOL">
@@ -264,7 +264,7 @@ export const dataFake = [
     <li><strong>Interaja com a Comunidade</strong>: Não esqueça de interagir com outros alunos e mentores. Faça perguntas, troque experiências e aproveite ao máximo a rede de contatos que a plataforma oferece.</li>
 </ol>
 
-<h2 class="articleSubtitle">Dicas para Aproveitar ao Máximo a Plataforma</h2>
+<h2 class="articleTitle">Dicas para Aproveitar ao Máximo a Plataforma</h2>
 <p>Agora que você já sabe como se inscrever e o que a plataforma oferece, aqui vão algumas dicas para aproveitar ao máximo o Brasil Mais TI:</p>
 
 <h3 class="articleSubtitle">1. <strong>Seja Proativo</strong></h3>
@@ -282,7 +282,7 @@ export const dataFake = [
 <h3 class="articleSubtitle">5. <strong>Mantenha-se Atualizado</strong></h3>
 <p>A tecnologia está em constante evolução. Portanto, é importante que você esteja sempre atualizado. Aproveite os conteúdos exclusivos da plataforma e não hesite em explorar outras fontes de informação também.</p>
 
-<h2 class="articleSubtitle">Conclusão</h2>
+<h2 class="articleTitle">Conclusão</h2>
 <p>O Brasil Mais TI é uma iniciativa que pode fazer a diferença na vida de muitas pessoas que desejam entrar ou se aprofundar na área de tecnologia. Com cursos gratuitos, eventos, networking e uma comunidade engajada, a plataforma oferece todas as ferramentas necessárias para que você se destaque no mercado.</p>
 
 <p>Espero que esse post tenha te inspirado a explorar o Brasil Mais TI e a aproveitar todas as oportunidades que a plataforma oferece. Se você é apaixonado por tecnologia e quer fazer a diferença, essa é a sua chance! Vamos juntos nessa jornada rumo ao futuro digital do Brasil!</p>
@@ -300,17 +300,17 @@ export const dataFake = [
 
 <p>E aí, galera! Hoje eu vim falar sobre uma plataforma que está revolucionando a forma como as pessoas se conectam e aprendem sobre tecnologia no Brasil: a <strong>Caminho Digital</strong>. Se você está em busca de conhecimentos, cursos e uma comunidade vibrante para te ajudar a se destacar no mercado de trabalho, fica comigo que eu vou te contar tudo sobre essa iniciativa incrível!</p>
 
-<h2 class="articleSubtitle">O Que é o Caminho Digital?</h2>
+<h2 class="articleTitle">O Que é o Caminho Digital?</h2>
 <p>A Caminho Digital é uma plataforma de aprendizado online focada em oferecer cursos e conteúdos relacionados à tecnologia da informação, desenvolvimento de software, marketing digital e muito mais. A proposta da plataforma é democratizar o acesso ao conhecimento, permitindo que qualquer pessoa, independente de sua formação ou localização, possa se qualificar e se inserir no mercado de tecnologia.</p>
 
 <p>Com uma interface amigável e intuitiva, a Caminho Digital se destaca por oferecer um ambiente de aprendizado dinâmico, onde os usuários podem escolher seus próprios caminhos de estudo e seguir no seu ritmo.</p>
 
-<h2 class="articleSubtitle">Por Que a Caminho Digital é Importante?</h2>
+<h2 class="articleTitle">Por Que a Caminho Digital é Importante?</h2>
 <p>Vivemos em um mundo cada vez mais digital, e as habilidades em tecnologia são essenciais para qualquer carreira. A Caminho Digital reconhece essa necessidade e oferece uma solução acessível para quem deseja se aprofundar nesse universo. Além disso, a plataforma tem um papel crucial na formação de uma mão de obra qualificada, pronta para atender à crescente demanda do mercado.</p>
 
 <p>Outro ponto importante é que a Caminho Digital também busca promover a inclusão digital, alcançando pessoas que muitas vezes não têm acesso a cursos presenciais ou a instituições de ensino tradicionais. Com isso, a plataforma contribui para a redução das desigualdades educacionais no Brasil.</p>
 
-<h2 class="articleSubtitle">O Que a Plataforma Oferece?</h2>
+<h2 class="articleTitle">O Que a Plataforma Oferece?</h2>
 <p>Agora que você já sabe o que é a Caminho Digital e sua importância, vamos dar uma olhada no que a plataforma tem a oferecer. Aqui estão algumas das principais características e recursos disponíveis:</p>
 
 <h3 class="articleSubtitle">1. <strong>Cursos Diversificados</strong></h3>
@@ -328,7 +328,7 @@ export const dataFake = [
 <h3 class="articleSubtitle">5. <strong>Atualizações Constantes</strong></h3>
 <p>O mercado de tecnologia está sempre em evolução, e a Caminho Digital entende a importância de manter seus cursos atualizados. A plataforma está constantemente revisando e adicionando novos conteúdos, garantindo que você sempre tenha acesso às informações mais recentes e relevantes.</p>
 
-<h2 class="articleSubtitle">Como Se Inscrever e Começar?</h2>
+<h2 class="articleTitle">Como Se Inscrever e Começar?</h2>
 <p>Se você ficou animado e quer saber como se inscrever na Caminho Digital, siga este passo a passo simples:</p>
 
 <ol class="articleOL">
@@ -339,7 +339,7 @@ export const dataFake = [
     <li><strong>Participe da Comunidade</strong>: Não se esqueça de interagir com outros alunos e aproveitar a comunidade da Caminho Digital. Isso pode te ajudar a tirar dúvidas e até fazer novas amizades!</li>
 </ol>
 
-<h2 class="articleSubtitle">Dicas para Aproveitar ao Máximo a Caminho Digital</h2>
+<h2 class="articleTitle">Dicas para Aproveitar ao Máximo a Caminho Digital</h2>
 <p>Agora que você sabe como se inscrever, aqui vão algumas dicas para tirar o máximo proveito da plataforma:</p>
 
 <h3 class="articleSubtitle">1. <strong>Defina Objetivos Claros</strong></h3>
@@ -357,7 +357,7 @@ export const dataFake = [
 <h3 class="articleSubtitle">5. <strong>Mantenha-se Atualizado</strong></h3>
 <p>O mundo da tecnologia muda rapidamente. Por isso, é importante que você esteja sempre atualizado. Aproveite os conteúdos exclusivos da plataforma e não hesite em explorar outras fontes de informação também.</p>
 
-<h2 class="articleSubtitle">Conclusão</h2>
+<h2 class="articleTitle">Conclusão</h2>
 <p>A Caminho Digital é uma plataforma que tem o potencial de transformar a vida de muitas pessoas que buscam se destacar no mercado de tecnologia. Com cursos acessíveis, conteúdo de qualidade e uma comunidade ativa, ela oferece tudo que você precisa para se desenvolver profissionalmente.</p>
 
 <p>Se você está pronto para dar o próximo passo na sua carreira e explorar novas oportunidades, não deixe de conferir a Caminho Digital. Aproveite essa chance de se qualificar e se preparar para o futuro digital que nos aguarda.</p>
